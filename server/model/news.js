@@ -33,6 +33,6 @@ const newsSchema = new mongoose.Schema({
     }
 });
 
-const news = mongoose.model('news', newsSchema);
+const news = mongoose.model('news', newsSchema); //news is a collection name and news collection pe jo schema validate krna hai usko seond me likho
 
 export default news;
