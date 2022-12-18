@@ -1,7 +1,7 @@
 ###,# QuickNews
 j
 jkjn
-jl
+jlk
 klknji
 kh
 j
