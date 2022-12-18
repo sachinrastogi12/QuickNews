@@ -1,5 +1,5 @@
 ###,# QuickNews
 j
-j
+jkjn
 jl
 klknji
